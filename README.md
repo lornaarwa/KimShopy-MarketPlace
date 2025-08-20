@@ -103,7 +103,7 @@ php artisan serve
 ## 📩 Contact Us
 
 -   Kimura Mutahi - kimuramutahi@protonmail.com
--   Lorna Arwa -
+-   Lorna Arwa - lornaarwa@gmail.com
 -   Anna Muoki -
 
 
